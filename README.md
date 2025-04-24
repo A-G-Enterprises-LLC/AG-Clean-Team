@@ -12,7 +12,7 @@ https://a-g-enterprises-llc.github.io/AG-Clean-Team/
 - Commercial & Office Cleaning
 - Move In / Move Out Cleaning
 - Deep Cleaning
-- Custom Cleaning Plans
+- Custom Cleaning Schedules
 
 ## 💡 Features
 
